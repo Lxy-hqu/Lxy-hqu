@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Lxy-hqu
+# 👋 Hi, I'm Lxy
 
 🔬 Deep Learning Researcher  
 🧠 Focus on industrial AI and multimodal learning  
